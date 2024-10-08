@@ -4,7 +4,7 @@
 Select the job websites you will use. You can start with the following:
 
 - **LinkedIn**: [linkedin.com/jobs](https://www.linkedin.com/jobs/)
--or remaining ：
+-or remaining sites：
 - **Indeed**: [indeed.com](https://www.indeed.com/)
 - **Glassdoor**: [glassdoor.com](https://www.glassdoor.com/)
 - **Monster**: [monster.com](https://www.monster.com/)
