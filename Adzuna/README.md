@@ -2,7 +2,7 @@ We can apply API data collection on this website.
 
 
 
-```markdown
+
 # Adzuna API Job Search Guide
 
 ## Step 1: Define Search Keyword and Location in `API.py`
