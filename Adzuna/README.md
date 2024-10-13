@@ -1,6 +1,6 @@
 We can apply API data collection on this website.
 
-以下是整个指南的 Markdown 格式：
+
 
 ```markdown
 # Adzuna API Job Search Guide
