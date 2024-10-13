@@ -2,10 +2,6 @@ We can apply API data collection on this website.
 
 
 
-
-下面是更新后的指南，包括在运行 `script.py` 前修改 `script.py` 的步骤，采用 Markdown 格式：
-
-
 # Adzuna API Job Search Guide
 
 ## Step 1: Define Search Keyword and Location in `API.py`
