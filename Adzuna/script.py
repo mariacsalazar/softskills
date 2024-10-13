@@ -37,7 +37,7 @@ def fetch_job_description(url):
 # Main process
 def main():
     # Convert txt to JSON
-    job_listings = txt_to_json('job_listing_design_France.txt')
+    job_listings = txt_to_json('job_listing_data_scientist_France.txt')
 
     # Fetch job descriptions and add to JSON
     for job in job_listings:

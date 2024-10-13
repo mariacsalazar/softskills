@@ -9,7 +9,7 @@ app_key = '4c2fefb1de23090786e0ca6c2f47d585'
 base_url = 'https://api.adzuna.com/v1/api/jobs/fr/search/'
 
 # Define search keyword and location
-search_keyword = 'design'
+search_keyword = 'data scientist'
 search_location = 'France'
 
 # Define API parameters
