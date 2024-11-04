@@ -1,0 +1,7 @@
+- https://github.com/ranayalcink/selenium_web_scraper
+- https://github.com/MatthewChatham/glassdoor-review-scraper
+- https://github.com/kira-misogi/Glassdoor-Scraping
+- https://github.com/octoparse/scraping-Glassdoor
+- https://github.com/chagab/glassdoor_scraper
+- https://github.com/scrapfly/scrapfly-scrapers/tree/main/glassdoor-scraper
+- https://scrapfly.io/blog/how-to-scrape-glassdoor/
